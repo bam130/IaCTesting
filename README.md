@@ -197,3 +197,7 @@ In the above two examples, we are seeing that a special tag has been added in th
 3. https://arxiv.org/ftp/arxiv/papers/1703/1703.10882.pdf
 4. https://github.com/TestSmells/TestSmellDetector
 5. https://julien.danjou.info/finding-definitions-from-a-source-file-and-a-line-number-in-python/
+
+### Testing CI pipeline with Codacy
+
+Test CI pipeline
